@@ -1,2 +1,2 @@
 # Hello_Python
-Some things in python
+This is simply a collection of basic exercises solved in python.
