@@ -1,13 +1,10 @@
 # Variables, arithmetic operators and expressions
 
-
 - **What's the problem:**
 
     King Arthur is very worried because the Vaderian army is very close to his castle with the idea of attacking it. And the big door of King Arthur's castle can only be closed under attack, the problem is that it takes a long time to close it because it is pushed from the bottom up by the Chewbaccas soldiers, who, despite their strength, sometimes fail to close it completely.
     
 ![problem](media/Problem.png)
-
-
 
 - **What is known about the problem:**
 
