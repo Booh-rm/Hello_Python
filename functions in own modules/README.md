@@ -16,11 +16,10 @@
 
 *2.* The modus operandi of terrorists:
    - In the third character of the "email" field they always put an asterisk (*).
-
    - They do not use the "@" symbol or use it more than once.
    - They use the letter "m" more than three times.
    - They never use at least once one of the following symbols ('+', '=', '&').
-   - They do not use the agency's domain borders (their emails are different from ....@fronteras.co).
+   - They do not use the agency's domain borders (their emails are different from ....@frontiers.co).
 
 *3.* The form to define to which evacuation stage a person belongs is known:
 
