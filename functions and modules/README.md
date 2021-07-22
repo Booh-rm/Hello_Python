@@ -17,7 +17,7 @@ Your life goes in it sailor, you must pronounce them with the correct article ac
 
 Another thing Seijo lookout, you must also shout the direction of the ship from which the creature appears
 
-- Port
+- to port
 - To starboard
 - By the bow
 - By the Stern
