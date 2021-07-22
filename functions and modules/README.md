@@ -6,12 +6,12 @@ Your mission is simple sailor, but important for the crew, when you see any of t
 
 - Ahoy! captain, one Kraken
 - Ahoy! captain, some Mermaids
-- Ahoy! captain, a Whale
-+ Ahoy! captain, one Hippocampus
-+ Ahoy! captain, one Macaraprono
-+ Ahoy! captain, an Octopus
-+ Ahoy! captain, a few Leviathans
-+ Ahoy! captain, some Hydras
+- Ahoy! captain, a Whale 
+- Ahoy! captain, one Hippocampus
+- Ahoy! captain, one Macaraprono
+- Ahoy! captain, an Octopus
+- Ahoy! captain, a few Leviathans
+- Ahoy! captain, some Hydras
 
 Your life goes in it sailor, you must pronounce them with the correct article according to their species (uno, una, unos, unas), but if you make a mistake: you will jump from the deck.
 
