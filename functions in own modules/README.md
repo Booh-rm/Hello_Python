@@ -5,7 +5,7 @@
 
     The space program of the new agency called "Frontiers" has been the victim of digital attacks in recent months, which seek to destabilize the nation and create panic among its inhabitants, since, in case of failure, they will not be able to evacuate the planet Earth, which is on the way to imminent destruction.
     
-![Figure](media/Figure_.png)
+![Figure_](media/Figure_.png)
 
 - **What is known about the problem:**
 
