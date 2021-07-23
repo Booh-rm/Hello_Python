@@ -1,4 +1,4 @@
-# functions and modules
+# 2. functions and modules
 
 The captain of the pirate ship Royal Fortune, the famous Bartholomew Robert has appointed the young sailor Seijo Alonso to serve as lookout on the main mast. This is what he has been told (shouted) by the captain:
 
