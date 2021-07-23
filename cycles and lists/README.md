@@ -17,7 +17,7 @@
    - Addresses are numbers between 0 and 2000 with the letter L if it is on the left side of the street and R in case it is on the right side of the street.
    - the addresses of each JACs are a number between 0 and 2000 since each JACs occupies both sides of the street.
 
-   Also known as:
+   Also known as: 
 
    - Street Graph:
 
