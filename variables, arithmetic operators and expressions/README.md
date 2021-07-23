@@ -1,4 +1,4 @@
-# Variables, arithmetic operators and expressions
+# 1. Variables, arithmetic operators and expressions
 
 - **What's the problem:**
 
