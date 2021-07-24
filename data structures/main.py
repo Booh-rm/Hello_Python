@@ -1,5 +1,9 @@
 from funtions import *
 
+#-------------------------------------------------------------------------------------------
+# @author Booh-rm
+#-------------------------------------------------------------------------------------------
+
 identification_list = obtain_list_identifications()
 print("authorized identifications:", identification_list)
 
