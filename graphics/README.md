@@ -20,7 +20,7 @@
    Also known:
     - The order of the information in the database contained in a CSV file:
 
-![Picture](media/Picture.png)
+![Image](media/Image.png)
 
 
 - **Outputs or results are:**
