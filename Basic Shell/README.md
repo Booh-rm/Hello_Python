@@ -1,9 +1,8 @@
 # <p align=center> Basic Shell </p>
 
-It is simply a Shell written in Python and inspired by other projects found here on GitHub.
-
-It has the following basic commands:
-
+<p align=center> It is simply a Shell written in Python and inspired by other projects found here on GitHub. </p>
+<p align=center> It has the following basic commands: </p>
+   
 <div align="center">
 
  Option | Meaning |
@@ -26,3 +25,5 @@ It has the following basic commands:
 <p align="center">
 <img src="https://github.com/Booh-rm/Hello_Python/blob/main/Basic%20Shell/media/Shell-Image.png" />
 </p>
+ 
+ ---
